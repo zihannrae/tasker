@@ -1,5 +1,7 @@
 # **Dokumentasi Project Instalasi Eprints**
 
+Di tugas kali ini saya berkelompok dengan Ira Khairina 3B.
+
 Berikut adalah dokumentasi untuk project instalasi EPrints: 
 
 **Buka terminal, dan ketikkan command berikut :** 
